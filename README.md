@@ -32,8 +32,7 @@ It covers visualizations, statistical summaries, and probability-based insights 
 
 Shows the distribution of confirmed COVID-19 cases across countries.
 ![Histogram of Confirmed Cases](images/histogram_comfrim.png)
-
----
+histogram_comfrim.png
 
 ### 2️⃣ Top 10 Countries by Confirmed Cases (Latest Date)
 
