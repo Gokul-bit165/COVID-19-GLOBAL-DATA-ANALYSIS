@@ -36,35 +36,35 @@ Shows the distribution of confirmed COVID-19 cases across countries.
 ### 2️⃣ Top 10 Countries by Confirmed Cases (Latest Date)
 
 Ranks countries with the highest number of confirmed cases.
-![Top 10 Confirmed](images/top_10_country.png)
+![Top 10 Confirmed](top_10_country.png)
 
 ---
 
 ### 3️⃣ Top 10 Countries by Death Count (Latest Date)
 
 Ranks countries with the highest number of reported deaths.
-![Top 10 Deaths](images/top_10_country_deaths.png)
+![Top 10 Deaths](top_10_country_deaths.png)
 
 ---
 
 ### 4️⃣ Scatter Plot – Confirmed vs Deaths
 
 Shows the relationship between confirmed cases and death counts.
-![Scatter Plot Confirmed vs Deaths](images/Scatter_plotconfirmed.png)
+![Scatter Plot Confirmed vs Deaths](Scatter_plotconfirmed.png)
 
 ---
 
 ### 5️⃣ Time Series – Confirmed Cases in India
 
 Visualizes the trend of confirmed cases in India over time.
-![India Time Series](images/time_series.png)
+![India Time Series](time_series.png)
 
 ---
 
 ### 6️⃣ Bar Chart – Total Confirmed Cases by Continent
 
 Manually grouped total confirmed cases per continent.
-![Continent Bar Chart](images/total_confrim_continent.png)
+![Continent Bar Chart](total_confrim_continent.png)
 
 
 ## 📦 Requirements
